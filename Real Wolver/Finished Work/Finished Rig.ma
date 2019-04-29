@@ -1,6 +1,6 @@
 //Maya ASCII 2019 scene
-//Name: about to set controls.ma
-//Last modified: Mon, Apr 29, 2019 02:03:01 AM
+//Name: Finished Rig.ma
+//Last modified: Mon, Apr 29, 2019 02:03:12 AM
 //Codeset: 1252
 requires maya "2019";
 currentUnit -l centimeter -a degree -t film;
@@ -83241,4 +83241,4 @@ connectAttr "pasted__place2dTexture3.msg" ":defaultRenderUtilityList1.u" -na;
 connectAttr "defaultRenderLayer.msg" ":defaultRenderingList1.r" -na;
 connectAttr "pasted__file3.msg" ":defaultTextureList1.tx" -na;
 connectAttr "ikRPsolver.msg" ":ikSystem.sol" -na;
-// End of about to set controls.ma
+// End of Finished Rig.ma
